@@ -1,3 +1,5 @@
+# Determining the estimates for Direct-Inverse sampling scheme
+
 # Determining the mean value of the estimator rho,
 # The actual value of rho 
 # Bias of the estimator
